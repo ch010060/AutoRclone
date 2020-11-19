@@ -1,6 +1,8 @@
 oauth2client
-google-api-python-client
+google-api-python-client==1.12.2
 progress
 progressbar2
 httplib2shim
 google_auth_oauthlib
+six==1.15.0
+httplib2==0.18.1
